@@ -1,0 +1,24 @@
+{
+  "name": "component-react-bootstrap",
+  "version": "0.0.0",
+  "description": "component-react-bootstrap =========================",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u9520107/component-react-bootstrap.git"
+  },
+  "author": "Jack Tzu-Chieh Huang <u9520107@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u9520107/component-react-bootstrap/issues"
+  },
+  "homepage": "https://github.com/u9520107/component-react-bootstrap",
+  "devDependencies": {
+    "envify": "^1.2.1",
+    "gulp": "^3.8.5",
+    "react": "^0.10.0",
+    "react-bootstrap": "^0.10.2"
+  }
+}

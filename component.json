@@ -1,0 +1,11 @@
+{
+	"name": "react-bootstrap",
+	"main": "react-bootstrap/main.js",
+	"scripts": [
+		"react-bootstrap/*.js",
+		"react-bootstrap/**/*.js"
+	],
+	"dependencies": {
+		"u9520107/component-react": "*"
+	}
+}

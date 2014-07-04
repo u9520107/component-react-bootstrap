@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/u9520107/component-react-bootstrap",
   "devDependencies": {
+    "bootstrap": "^3.2.0",
     "envify": "^1.2.1",
     "gulp": "^3.8.5",
     "react": "^0.10.0",

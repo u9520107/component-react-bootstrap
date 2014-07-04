@@ -5,6 +5,12 @@
 		"react-bootstrap/*.js",
 		"react-bootstrap/**/*.js"
 	],
+	"styles": [
+		"bootstrap/css/*.css"
+	],
+	"fonts": [
+		"bootstrap/fonts/*"
+	],
 	"dependencies": {
 		"u9520107/component-react": "*"
 	}

@@ -1,7 +1,7 @@
 {
 	"name": "react-bootstrap",
 	"main": "react-bootstrap/main.js",
-  "version": "0.11.2-test5",
+  "version": "0.11.2-test6",
 	"scripts": [
 		"react-bootstrap/*.js",
 		"react-bootstrap/**/*.js"
